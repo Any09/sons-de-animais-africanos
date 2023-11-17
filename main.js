@@ -16,3 +16,12 @@ function tocaSomBúfalo(){
 function tocaSomCrocodilo(){
     document.querySelector('#som_tecla_elefante').play();
 }
+function tocaSomLeopardo(){
+    document.querySelector('#som_tecla_leopardo').play();
+}
+function tocaSomPuma(){
+    document.querySelector('#som_tecla_puma').play();
+}
+function tocaSomGorila(){
+    document.querySelector('#som_tecla_gorila').play();
+}
